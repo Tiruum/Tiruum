@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [student services web app](https://github.com/Tiruum/Tiruum.github.io)
 
-- 🌱 I’m currently learning **Vue 3, Nuxt 3, NestJS**
+- 🌱 I’m currently learning **React, NextJS, NestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tiruum](https://github.com/Tiruum)
-
-- 💬 Ask me about **Vue, Nuxt, Nest, Tailwind**
 
 - 📫 How to reach me **selintimur@yandex.ru**
 
